@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/PVS-clothing/static/css/main.d61489f2.chunk.css",
+    "main.js": "/PVS-clothing/static/js/main.60025b81.chunk.js",
+    "main.js.map": "/PVS-clothing/static/js/main.60025b81.chunk.js.map",
+    "runtime-main.js": "/PVS-clothing/static/js/runtime-main.85ec84c4.js",
+    "runtime-main.js.map": "/PVS-clothing/static/js/runtime-main.85ec84c4.js.map",
+    "static/js/2.379a964f.chunk.js": "/PVS-clothing/static/js/2.379a964f.chunk.js",
+    "static/js/2.379a964f.chunk.js.map": "/PVS-clothing/static/js/2.379a964f.chunk.js.map",
+    "index.html": "/PVS-clothing/index.html",
+    "static/css/main.d61489f2.chunk.css.map": "/PVS-clothing/static/css/main.d61489f2.chunk.css.map",
+    "static/js/2.379a964f.chunk.js.LICENSE.txt": "/PVS-clothing/static/js/2.379a964f.chunk.js.LICENSE.txt",
+    "static/media/crown.3a4e2b15.svg": "/PVS-clothing/static/media/crown.3a4e2b15.svg",
+    "static/media/shopping-bag.cfde1dec.svg": "/PVS-clothing/static/media/shopping-bag.cfde1dec.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.85ec84c4.js",
+    "static/js/2.379a964f.chunk.js",
+    "static/css/main.d61489f2.chunk.css",
+    "static/js/main.60025b81.chunk.js"
+  ]
+}
